@@ -1,2 +1,2 @@
 Hello
-we are learning triggers
+we are learning webhook triggers
